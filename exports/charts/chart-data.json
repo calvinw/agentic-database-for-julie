@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "name": "Cashmere Sweater",
+      "purchases": 3
+    },
+    {
+      "name": "Cotton T-Shirt",
+      "purchases": 3
+    },
+    {
+      "name": "Denim Jeans",
+      "purchases": 2
+    },
+    {
+      "name": "Silk Blouse",
+      "purchases": 2
+    },
+    {
+      "name": "Canvas Sneakers",
+      "purchases": 0
+    },
+    {
+      "name": "Knit Cardigan",
+      "purchases": 0
+    },
+    {
+      "name": "Leather Jacket",
+      "purchases": 0
+    },
+    {
+      "name": "Linen Dress",
+      "purchases": 0
+    },
+    {
+      "name": "Satin Skirt",
+      "purchases": 0
+    },
+    {
+      "name": "Wool Coat",
+      "purchases": 0
+    }
+  ],
+  "customers": [
+    {
+      "customer": "John Doe",
+      "total_spent": "299.98"
+    },
+    {
+      "customer": "Jane Smith",
+      "total_spent": "269.97"
+    },
+    {
+      "customer": "David Miller",
+      "total_spent": "89.99"
+    },
+    {
+      "customer": "Sarah Williams",
+      "total_spent": "79.99"
+    },
+    {
+      "customer": "Emily Jones",
+      "total_spent": "79.99"
+    },
+    {
+      "customer": "Robert Johnson",
+      "total_spent": "29.99"
+    },
+    {
+      "customer": "Michael Brown",
+      "total_spent": "29.99"
+    }
+  ]
+}

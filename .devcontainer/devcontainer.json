@@ -5,5 +5,5 @@
     "ghcr.io/devcontainers/features/node:1": { "version": "22" },
     "ghcr.io/devcontainers/features/github-cli:1": {}
   },
-  "onCreateCommand": "npm install -g @opencode/cli @openai/codex @anthropic-ai/claude-code"
+  "onCreateCommand": "npm install -g @opencode/cli @openai/codex @anthropic-ai/claude-code && curl -fsSL https://github.com/dolthub/dolt/releases/download/v2.7.3/install.sh -o /tmp/dolt-install.sh && sudo bash /tmp/dolt-install.sh"
 }
